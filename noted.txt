@@ -1,0 +1,43 @@
+web devlopement 
+
+1. front-end => design()
+html + css + javascript  + java
+html + css + javascript  + php 
+html + css + javascript  + python 
+
+html + css + javascript => node js (javascript  server ) 
+andorid app , ios 
+
+html + css + javascript  + ruby 
+html + css + javascript  + go 
+
+
+
+
+2. back end  =>  
+java, php, python, javascript , ruby , go ,
+
+1 +2 +> fullstuck developer 
+
+c++, => game desktop , broweser 
+
+ms word => c++, c# 
+
+
+internet vs web 
+================
+
+website => 
+web app => 
+
+static web => only information 
+dynamic web => 
+
+ms word => desktop app 
+one drive => web app 
+
+google doc => web app 
+
+
+
+cable => 
